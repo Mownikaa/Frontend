@@ -1,7 +1,5 @@
 # Frontend React Project
 
-This is your final project for the frontend module
-
 ## Instructions
 
 ### General
