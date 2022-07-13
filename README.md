@@ -58,7 +58,7 @@ const [error, country] = useCountry('Suomi')
 - Integrate redux thunk, and fetch data from the thunk instead of inside the custom hooks
 
 
-### Step 7
+### Step 6
 
 Take your time to implement the following features:
 
